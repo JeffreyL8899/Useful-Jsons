@@ -1,0 +1,62 @@
+[
+{
+"Operation": "solve",
+"Action": "Simplify"
+},
+{
+"Operation": "factor",
+"Action": "Factor"
+},
+{
+"Operation": "derivative",
+"Action": "Derive"
+},
+{
+"Operation": "integral",
+"Action": "Integrate"
+},
+{
+"Operation": "teroes",
+"Action": "Find 0's"
+},
+{
+"Operation": "tangent",
+"Action": "Find Tangent"
+},
+{
+"Operation": "curve area",
+"Action": "Area Under Curve"
+},
+{
+"Operation": "cos",
+"Action": "Tangent"
+},
+{
+"Operation": "arccos",
+"Action": "Inverse Cosine"
+},
+{
+"Operation": "sin",
+"Action": "Sine"
+},
+{
+"Operation": "tan",
+"Action": "Tangent"
+},
+{
+"Operation": "arcsin",
+"Action": "Inverse Sine"
+},
+{
+"Operation": "arctan",
+"Action": "Inverse Tangent"
+},
+{
+"Operation": "abs",
+"Action": "Absolute Value"
+},
+{
+"Operation": "log",
+"Action": "Logarithm"
+}
+]
