@@ -1,62 +1,62 @@
 [
 {
 "Operation": "solve",
-"Action": "Simplify"
+"Action": "simplify"
 },
 {
 "Operation": "factor",
-"Action": "Factor"
+"Action": "factor"
 },
 {
 "Operation": "derivative",
-"Action": "Derive"
+"Action": "derive"
 },
 {
 "Operation": "integral",
-"Action": "Integrate"
+"Action": "integrate"
 },
 {
 "Operation": "zeroes",
-"Action": "Find 0's"
+"Action": "zeroes"
 },
 {
-"Operation": "tangent",
-"Action": "Find Tangent"
+"Operation": "find tangent",
+"Action": "tangent"
 },
 {
 "Operation": "curve area",
-"Action": "Area Under Curve"
+"Action": "area"
 },
 {
 "Operation": "cos",
-"Action": "Tangent"
+"Action": "cos"
 },
 {
 "Operation": "arccos",
-"Action": "Inverse Cosine"
+"Action": "arccos"
 },
 {
-"Operation": "sin",
-"Action": "Sine"
+"Operation": "sine",
+"Action": "sin"
 },
 {
 "Operation": "tan",
-"Action": "Tangent"
+"Action": "tan"
 },
 {
 "Operation": "arcsin",
-"Action": "Inverse Sine"
+"Action": "arcsin"
 },
 {
 "Operation": "arctan",
-"Action": "Inverse Tangent"
+"Action": "arctan"
 },
 {
 "Operation": "abs",
-"Action": "Absolute Value"
+"Action": "abs"
 },
 {
 "Operation": "log",
-"Action": "Logarithm"
+"Action": "log"
 }
 ]
